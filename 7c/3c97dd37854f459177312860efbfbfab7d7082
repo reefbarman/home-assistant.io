@@ -1,0 +1,14 @@
+source/_triggers/numeric_state.markdown
+  h_e08a86bb3a33a2 106,128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7c3c97dd37854f459177312860efbfbfab7d7082",
+  "prompts": {},
+  "humans": {
+    "h_e08a86bb3a33a2": {
+      "author": "Tristan Cartledge <tristan.cartledge@gmail.com>"
+    }
+  }
+}
